@@ -1,0 +1,1 @@
+- improved support for encoding in logger
