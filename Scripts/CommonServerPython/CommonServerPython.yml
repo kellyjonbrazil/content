@@ -14,4 +14,3 @@ dependson: {}
 timeout: 0s
 tests:
   - TestCommonPython
-releaseNotes: "improved support for encoding in logger"
